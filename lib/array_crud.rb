@@ -44,5 +44,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   colors = ["red", "gold", "blue", "black"]
-  colors[2] = "array"
+  colors[2] = "element"
 end

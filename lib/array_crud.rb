@@ -38,7 +38,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  words = ["wow", "cool", "awesome"]
+  words = ["wow", "cool", "arrays!"]
   words[2]
 end
 

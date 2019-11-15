@@ -45,5 +45,4 @@ end
 def update_element_from_index(array, index_number, element)
   words = ["array", "index", "element"]
   words[2] = "elements"
-  =>elements
 end

@@ -43,6 +43,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  words = ["array", "index", "element"]
-  words[2] = "elements"
+  word = ["array", "index", "element"]
+  word[2] = "elements"
 end
